@@ -6,9 +6,4 @@ Hello everyone , I am contributing as a Data Science and Business Analytics Inte
 
 [Here's the link for you to register as well :- ](https://internship.thesparksfoundation.info/)
 
-<img
-src=“https://internship.thesparksfoundation.info/assests/img/logo.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![alt text](http://url/to/img.png)
