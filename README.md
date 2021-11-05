@@ -6,4 +6,4 @@ Hello everyone , I am contributing as a Data Science and Business Analytics Inte
 
 [Here's the link for you to register as well :- ](https://internship.thesparksfoundation.info/)
 
-![alt text](http://url/to/img.png)
+![The Sparks Foundation](https://internship.thesparksfoundation.info/assests/img/logo.png)
